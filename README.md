@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there Am Kofi Boakye👋 I am a front-end developer passionate about writing clear, semantic HTML, CSS and JavaScript with passion for Design System, Serverless Technologies such as (AWS and Google Cloud) and Web Accessibility Standards. My experience with front-end frameworks includes React, Vue and Gatsby and I have an extensive background in open source development using Git. As a nurse who code, I value teamwork and collaboration and I am motivated to parallel the growth of my skills with the company’s product.
+![](https://komarev.com/ghpvc/?username=boakyezitek)
+###
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boakyezitek&show_icons=true&theme=radical)
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boakyezitek)](https://github.com/anuraghazra/github-readme-stats)
+###
 <!--
 **boakyezitek/boakyezitek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
