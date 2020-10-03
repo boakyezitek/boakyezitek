@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Kofi Boakye!</h1>
 
-![Sitting at the beach](https://github.com/usmcamgrimm/usmcamgrimm/blob/master/photo.jpg)
+![Sitting at the beach](https://github.com/boakyezitek/boakyezitek/53356674.jpg)
+
+
 
 <p align="center">
     <a href="https://tonacode.com">
