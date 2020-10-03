@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kofi Boakye!</h1>
 
-![Sitting at the beach](https://github.com/boakyezitek/boakyezitek/53356674.jpg)
+![Sitting at the beach](https://github.com/boakyezitek/boakyezitek/blob/main/53356674.jpg)
 
 
 
