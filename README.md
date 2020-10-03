@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kofi Boakye!</h1>
 
-<p align="center">
+
 ![Travelling](https://github.com/boakyezitek/boakyezitek/blob/main/photo.jpg)
-</p>
+
 
 
 
