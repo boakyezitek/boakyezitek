@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kofi Boakye!</h1>
 
 
-![Travelling](https://github.com/boakyezitek/boakyezitek/blob/main/photo.jpg)
+![Travelling](https://github.com/boakyezitek/boakyezitek/blob/main/photo1.jpg)
 
 
 
