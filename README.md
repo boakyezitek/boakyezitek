@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm  Kofi Boakye, a motivated and passionate Fullstack Developer! <br>My love for coding began with open-source Web development and a passion for coding<br>I love Html, CSS, Javascript, Jquery,  Bootstrap, Webpack, Bable.js, <br>React.js, Vue.js, Php, Laravel, Node.js, GraphQL, Mysql, Livewire, Alpine.js
-
+I'm  Kofi Boakye, a motivated and passionate Fullstack Developer! My love for coding began with open-source Web development and a passion for coding. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/boakye.kofi.52) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/boakye.51/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kofi-boakye-3b711b176/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/BoakyeKofi14) 
